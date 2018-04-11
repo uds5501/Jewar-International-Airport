@@ -1,0 +1,8 @@
+
+**********************TICKET INFORMATION************************
+Name :Brijesh
+Age  :22
+Destination :china
+Ticket Number :ETICHI529601
+Seat Number :01
+HAVE A SAFE JOURNEY!!

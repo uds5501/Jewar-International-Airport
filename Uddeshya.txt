@@ -1,0 +1,8 @@
+
+**********************TICKET INFORMATION************************
+Name :Uddeshya
+Age  :23
+Destination :Spain
+Ticket Number :ETIESP047202
+Seat Number :02
+HAVE A SAFE JOURNEY!!
